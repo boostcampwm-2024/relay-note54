@@ -1,6 +1,6 @@
 # TMI
 
-![img]()
+![img](https://github.com/boostcampwm-2024/relay-note54/blob/main/Untitled.png)
 
 ## 함께 자라기
 
